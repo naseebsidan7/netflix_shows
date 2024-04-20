@@ -2,7 +2,7 @@
  <br>
  <br>
  
-      Description 🔑
+      Description 📄
  
 - Developed a React.js-based web application inspired by Netflix to browse movies and shows.
 
