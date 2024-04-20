@@ -2,7 +2,7 @@
  <br>
  <br>
  
-    __Key Features__ 🔑
+    Key Features 🔑
  
 - Developed a React.js-based web application inspired by Netflix to browse movies and shows.
 - Integrated the TMDB API to fetch movie and show details, showcasing them in a stylish and user-friendly manner.
